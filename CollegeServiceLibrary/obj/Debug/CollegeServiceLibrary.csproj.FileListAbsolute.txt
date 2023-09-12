@@ -1,0 +1,12 @@
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\bin\Debug\CollegeServiceLibrary.dll
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\bin\Debug\CollegeServiceLibrary.pdb
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\obj\Debug\CollegeServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\obj\Debug\CollegeServiceLibrary.dll
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\obj\Debug\CollegeServiceLibrary.pdb
+C:\Users\mruna\OneDrive\Desktop\Project2\CollegeServiceLibrary\bin\Debug\CollegeServiceLibrary.dll
+C:\Users\mruna\OneDrive\Desktop\Project2\CollegeServiceLibrary\bin\Debug\CollegeServiceLibrary.pdb
+C:\Users\mruna\OneDrive\Desktop\Project2\CollegeServiceLibrary\obj\Debug\CollegeServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\mruna\OneDrive\Desktop\Project2\CollegeServiceLibrary\obj\Debug\CollegeServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mruna\OneDrive\Desktop\Project2\CollegeServiceLibrary\obj\Debug\CollegeServiceLibrary.dll
+C:\Users\mruna\OneDrive\Desktop\Project2\CollegeServiceLibrary\obj\Debug\CollegeServiceLibrary.pdb
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\obj\Debug\CollegeServiceLibrary.csproj.AssemblyReference.cache

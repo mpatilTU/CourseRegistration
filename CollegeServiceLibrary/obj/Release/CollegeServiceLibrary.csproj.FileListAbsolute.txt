@@ -1,0 +1,6 @@
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\bin\Release\CollegeServiceLibrary.dll
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\bin\Release\CollegeServiceLibrary.pdb
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\obj\Release\CollegeServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\obj\Release\CollegeServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\obj\Release\CollegeServiceLibrary.dll
+C:\Users\tug77366\Desktop\Project2\CollegeServiceLibrary\obj\Release\CollegeServiceLibrary.pdb

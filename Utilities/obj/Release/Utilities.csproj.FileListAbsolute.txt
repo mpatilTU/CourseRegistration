@@ -1,0 +1,6 @@
+C:\Users\tug77366\Desktop\Project2\Utilities\bin\Release\Utilities.dll
+C:\Users\tug77366\Desktop\Project2\Utilities\bin\Release\Utilities.pdb
+C:\Users\tug77366\Desktop\Project2\Utilities\obj\Release\Utilities.csproj.AssemblyReference.cache
+C:\Users\tug77366\Desktop\Project2\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\tug77366\Desktop\Project2\Utilities\obj\Release\Utilities.dll
+C:\Users\tug77366\Desktop\Project2\Utilities\obj\Release\Utilities.pdb
